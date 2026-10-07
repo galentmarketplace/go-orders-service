@@ -1,2 +1,4 @@
-coverage.out
-coverage.lcov
+node_modules/
+playwright-report/
+test-results/
+.env
